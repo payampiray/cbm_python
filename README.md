@@ -1,9 +1,9 @@
-# CBM (Computational Bayesian Modeling)
+# CBM (Computational Brain/Behavior Modeling)
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 
-"Computational Behavioral/Brain Modeling (CBM)" Library for model fitting and model selection.
+"Computational Brain/Behavior Modeling (CBM)" Library for model fitting and model selection.
 
 ## Overview
 
